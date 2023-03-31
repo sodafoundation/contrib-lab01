@@ -2,4 +2,5 @@
 void main()
 {
 printf("new number")
+  getch();
 }
