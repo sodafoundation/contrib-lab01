@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
-  printf("new number")
+  printf("new number");
+  getch();
 }
 
