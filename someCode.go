@@ -1,3 +1,6 @@
+
+made some changes in the line 38
+
 // Copyright 2023 The OpenSDS Authors.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -32,7 +35,7 @@ func getLanguage(project string) string {
 	return projectLang[project]
 }
 
-func main() {
+func main() {*************
 	project := "strato"
 	lang := getLanguage(project)
 	fmt.Printf("This ode will print the project name and the language the project is implemented on ")
