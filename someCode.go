@@ -20,6 +20,8 @@ import "fmt"
 
 // this is sample function
 func getLanguage(project string) string {
+	// dealting new var
+
 	var projectLang map[string]string
 	projectLang = map[string]string{
 		"strato": "goLang",
