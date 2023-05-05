@@ -23,10 +23,10 @@ func getLanguage(project string) string {
 	var projectLang map[string]string
 	projectLang = map[string]string{
 		"strato": "goLang",
-	"delfin": "python"
-	"kahu": "goLang"
-	"dashboard": "nodeJs"
-	"installer": "ansible"
+	"delfin": "python"//language used
+	"kahu": "goLang"//language used
+	"dashboard": "nodeJs"//language used
+	"installer": "ansible"//language used
 	}
 
 	return projectLang[project]
@@ -34,7 +34,7 @@ func getLanguage(project string) string {
 
 func main() {
 	project := "strato"
-	lang := getLanguage(project)
+		lang := getLanguage(project)
 	fmt.Printf("This ode will print the project name and the language the project is implemented on ")
 	fmt.Printf("the language used for project: %s is %s\n", project, lang)
 
