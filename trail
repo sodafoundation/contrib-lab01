@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main()
-printf(" soda foundation ");
+printf(" my foundation ");
 return 0;
