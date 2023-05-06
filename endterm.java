@@ -4,3 +4,4 @@ print(a, b, c, d, e)
 
   
 System.out.println(enter a nuymber)
+sucessfully pused and moving forward with pull 
