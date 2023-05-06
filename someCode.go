@@ -26,7 +26,7 @@ func getLanguage(project string) string {
 	"delfin": "python"
 	"kahu": "goLang"
 	"dashboard": "nodeJs"
-	"installer": "ansible"
+	"installer": "ansible"""
 	}
 
 	return projectLang[project]
