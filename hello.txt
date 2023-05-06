@@ -1,6 +1,6 @@
 INFINIDAT
 
-Infinidat was founded in 2011 by a team of storage industry experts focused on returning business value to customers by eliminating the compromises between performance, availability, and cost, at multi-petabyte scale for enterprise storage. The Infinidat team, spanning generations of storage industry experience and previous product successes, has become an industry leader by developing a better, faster way to store and protect multiple petabytes of data, with the highest possible availability, at the lowest possible cost. All of this work was done with a single goal in mind – enable customers to spend less on their infrastructure and focus more on innovation, growth, and competitive advantage.
+Infinidat was founded in 2009 by a team of storage industry experts focused on returning business value to customers by eliminating the compromises between performance, availability, and cost, at multi-petabyte scale for enterprise storage. The Infinidat team, spanning generations of storage industry experience and previous product successes, has become an industry leader by developing a better, faster way to store and protect multiple petabytes of data, with the highest possible availability, at the lowest possible cost. All of this work was done with a single goal in mind – enable customers to spend less on their infrastructure and focus more on innovation, growth, and competitive advantage.
 
 
 Project Summary**
