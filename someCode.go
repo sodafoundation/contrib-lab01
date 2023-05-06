@@ -17,6 +17,7 @@
 package main
 
 import "fmt"
+import "math/rand"
 
 // this is sample function
 func getLanguage(project string) string {
