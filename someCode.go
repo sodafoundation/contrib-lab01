@@ -16,7 +16,6 @@
 
 package main
 
-import "fmt"
 
 // this is sample function
 func getLanguage(project string) string {
